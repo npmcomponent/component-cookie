@@ -1,0 +1,9 @@
+{
+  "name": "component-cookie",
+  "description": "Tiny cookie component",
+  "version": "1.0.1",
+  "keywords": [
+    "cookie"
+  ],
+  "dependencies": {}
+}
